@@ -14,6 +14,7 @@ namespace WinFormsApp1
             Application.Run(new Form1());
             Console.WriteLine("Hello");
             System.Console.WriteLine("Hello cai gi");
+            Console.WriteLine("Khong co gi");
         }
     }
 }
